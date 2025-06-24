@@ -1,0 +1,65 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python virtual environment
+*.egg-info/
+.eggs/
+*.egg
+*.whl
+
+# Jupyter Notebook metadata
+*.nbconvert.ipynb
+
+# VS Code settings
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Logs and local data
+*.log
+*.sqlite
+*.db
+
+# Large data files
+*.h5
+*.hdf5
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.zip
+*.gz
+*.tar
+*.tar.gz
+*.nc
+
+# Output and temporary files
+output/
+tmp/
+temp/
+*.out
+*.bak
+
+# IPython history
+.history
+
+# GitHub token or credentials
+token.json
+credentials.json
+
